@@ -33,5 +33,3 @@ To stop a client :
 	type "stop" when asked "Destinataire? : "
 
 
-
-Translated with www.DeepL.com/Translator (free version)
